@@ -1,2 +1,9 @@
-工具库，日常开发需要的库
-1、AutoCreate(身份证、手机号)
+工具类
+1、DButil
+2、CookieUtil
+3、FtpUtil
+4、HttpClientUtil
+5、IDUtil
+6、JsonUtil
+7、MyBatisUtil
+8、VerificationUtil
