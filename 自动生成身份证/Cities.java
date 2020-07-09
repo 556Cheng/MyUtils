@@ -1,4 +1,4 @@
-package ×Ô¶¯Éú³ÉÉí·İÖ¤;
+package è‡ªåŠ¨ç”Ÿæˆèº«ä»½è¯;
 
 public class Cities {
 	static final int cities [] = {
