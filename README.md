@@ -1,5 +1,2 @@
-# hello-world
-just another repository
-55Cheng is the first time to here.
-I am very happy.
-Today is 2018/6/21 10am.
+工具库，日常开发需要的库
+1、AutoCreate(身份证、手机号)
